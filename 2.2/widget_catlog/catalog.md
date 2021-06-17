@@ -13,4 +13,4 @@
 11. [Painting and effects](https://github.com/engineer-ece/Flutter/blob/main/2.2/widget_catlog/painting_and_effect.md)
 12. [Scrolling](https://github.com/engineer-ece/Flutter/blob/main/2.2/widget_catlog/scrolling.md)
 13. [Styling](https://github.com/engineer-ece/Flutter/blob/main/2.2/widget_catlog/styling.md)
-14. [Text]()
+14. [Text](https://github.com/engineer-ece/Flutter/blob/main/2.2/widget_catlog/textwidgets.md)
