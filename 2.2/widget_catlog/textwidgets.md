@@ -1,4 +1,4 @@
-# 12. Text Widgets 
+# 14. Text Widgets 
 
 1. [DefaultTextStyle]()
 2. [RichText]()
